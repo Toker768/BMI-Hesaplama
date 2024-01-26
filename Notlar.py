@@ -46,6 +46,4 @@ seçmesini sağlamak için kullanılabilir.
 
 eğer ben kullanıcının girmiş olduğu değerleri işleyip tekrar ona yansıtıcak isem o zaman ben label widgetimi kullanırım.
 
-merhabeaa
-
 '''
